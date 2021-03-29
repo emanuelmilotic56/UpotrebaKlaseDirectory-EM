@@ -1,0 +1,7 @@
+C:\Users\Milotić\source\repos\UpotrebaKlaseDirectory1-EM\UpotrebaKlaseDirectory1-EM\bin\Debug\UpotrebaKlaseDirectory1-EM.exe.config
+C:\Users\Milotić\source\repos\UpotrebaKlaseDirectory1-EM\UpotrebaKlaseDirectory1-EM\bin\Debug\UpotrebaKlaseDirectory1-EM.exe
+C:\Users\Milotić\source\repos\UpotrebaKlaseDirectory1-EM\UpotrebaKlaseDirectory1-EM\bin\Debug\UpotrebaKlaseDirectory1-EM.pdb
+C:\Users\Milotić\source\repos\UpotrebaKlaseDirectory1-EM\UpotrebaKlaseDirectory1-EM\obj\Debug\UpotrebaKlaseDirectory1-EM.csprojAssemblyReference.cache
+C:\Users\Milotić\source\repos\UpotrebaKlaseDirectory1-EM\UpotrebaKlaseDirectory1-EM\obj\Debug\UpotrebaKlaseDirectory1-EM.csproj.CoreCompileInputs.cache
+C:\Users\Milotić\source\repos\UpotrebaKlaseDirectory1-EM\UpotrebaKlaseDirectory1-EM\obj\Debug\UpotrebaKlaseDirectory1-EM.exe
+C:\Users\Milotić\source\repos\UpotrebaKlaseDirectory1-EM\UpotrebaKlaseDirectory1-EM\obj\Debug\UpotrebaKlaseDirectory1-EM.pdb
